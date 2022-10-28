@@ -1,14 +1,23 @@
 .container{
     background-color: #000;
-    border: 1px solid deepskyblue;
     width: 900px
 }
 .nav{
     background-color: #708090;
+    
 }
 .nav a{
     color: #fff;
     font-weight: 700;
     text-decoration: none;
     margin: 35px;
+    padding: 0.8rem;
+}
+main{
+    color: #fff;
+}
+footer{
+    color: #fff;
+    background-color: #708090;
+    text-align: center;
 }
